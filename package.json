@@ -1,0 +1,23 @@
+{
+  "name": "resize-position-proportionally",
+  "version": "0.0.1",
+  "description": "Resize and Position your images (or something else) proportionally. It takes care of the orientation, depends of PORTRAIT or LANDSCAPE ratio.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hellopath@github.com/hellopath/resize-position-proportionally.git"
+  },
+  "author": "hellopath <contact@pa-th.com> (http://pa-th.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellopath/resize-position-proportionally/issues"
+  },
+  "homepage": "https://github.com/hellopath/resize-position-proportionally#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
